@@ -34,3 +34,19 @@
 - Reassign new values to the variables name, age, and student, and display the new values.
 ### Assignment Operators:
 - Use assignment operators (+=, -=, *=, /=) to modify the values of the numeric variables.
+
+## Standard Input and Output
+### Simple Data Input:
+- Ask the user for their name and display a welcome message.
+## Number Input and Conversion:
+- Ask the user for two numbers and display their sum.
+## String Input and Manipulation:
+- Ask the user for a string and display its length.
+## Concatenation of Inputs:
+- Ask the user for two strings and display their concatenation.
+## String Interpolation with Inputs:
+- Ask the user for their name and age, and display a message that includes this information using template literals.
+## Mathematical Operations with Inputs:
+- Ask the user for a number and display the square of that number.
+## Array Input and Manipulation:
+- Ask the user for a series of numbers separated by commas and display the average of those numbers.

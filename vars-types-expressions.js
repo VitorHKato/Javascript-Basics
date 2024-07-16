@@ -42,7 +42,7 @@ console.log(message)
 
 
 /* Variable reassignment */
-//Reassing new values to the variables 'name', 'age', and 'student', and display the new values
+//Reassign new values to the variables 'name', 'age', and 'student', and display the new values
 name = 'Victor'
 age = 29
 student = false
