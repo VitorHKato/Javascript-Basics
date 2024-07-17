@@ -38,15 +38,23 @@
 ## Standard Input and Output
 ### Simple Data Input:
 - Ask the user for their name and display a welcome message.
-## Number Input and Conversion:
+### Number Input and Conversion:
 - Ask the user for two numbers and display their sum.
-## String Input and Manipulation:
+### String Input and Manipulation:
 - Ask the user for a string and display its length.
-## Concatenation of Inputs:
+### Concatenation of Inputs:
 - Ask the user for two strings and display their concatenation.
-## String Interpolation with Inputs:
+### String Interpolation with Inputs:
 - Ask the user for their name and age, and display a message that includes this information using template literals.
-## Mathematical Operations with Inputs:
+### Mathematical Operations with Inputs:
 - Ask the user for a number and display the square of that number.
-## Array Input and Manipulation:
+### Array Input and Manipulation:
 - Ask the user for a series of numbers separated by commas and display the average of those numbers.
+
+## Logical and Arithmetic operations
+- Ask the user for their age and display a message indicating whether they are of legal age (age 18 or older) or not.
+- Ask the user for two numbers and display a message indicating which one is larger.
+- Ask the user for a number and display a message indicating whether the number is odd or even.
+- Ask the user for two boolean values (true or false) and display the result of the AND, OR, and NOT logical operations between them.
+- Ask the user for two numbers and a logical operator (&& for AND, || for OR) and display the result of the logical expression.
+- Ask the user for two strings and display a message indicating whether they are equal or different.
