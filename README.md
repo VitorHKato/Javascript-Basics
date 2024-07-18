@@ -58,3 +58,13 @@
 - Ask the user for two boolean values (true or false) and display the result of the AND, OR, and NOT logical operations between them.
 - Ask the user for two numbers and a logical operator (&& for AND, || for OR) and display the result of the logical expression.
 - Ask the user for two strings and display a message indicating whether they are equal or different.
+
+## Selection Structures
+- Triangle Validation: Write a program that asks the user for three numbers representing the sides of a triangle. 
+The program should check if these three numbers can form a valid triangle (the sum of any two sides must be greater than
+the third side). If valid, classify the triangle as equilateral, isosceles, or scalene.
+- Leap Year Verification: Implement a program that asks the user for a year and checks if it is a leap year. A year is a
+leap year if it is divisible by 4, except for years that are divisible by 100 but not divisible by 400.
+- Rock, Paper, Scissors Game: Develop a program that allows the user to play Rock, Paper, Scissors against the computer.
+The program should prompt the user for their choice and generate a random choice for the computer. Display who the 
+winner was or if there was a tie.
