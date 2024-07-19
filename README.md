@@ -68,3 +68,15 @@ leap year if it is divisible by 4, except for years that are divisible by 100 bu
 - Rock, Paper, Scissors Game: Develop a program that allows the user to play Rock, Paper, Scissors against the computer.
 The program should prompt the user for their choice and generate a random choice for the computer. Display who the 
 winner was or if there was a tie.
+
+## Loop Structures
+- Print Numbers from 1 to 100: Write a program that prints all numbers from 1 to 100. Use a for loop.
+- Sum of the First N Numbers: Create a function that takes a number n and returns the sum of the first n natural numbers
+using a while loop.
+- Number of Digits: Write a function that takes a number and returns the number of digits in that number using a while 
+loop.
+- Factorial of a Number: Create a function that calculates the factorial of a given number using a for loop.
+- Reverse a String: Create a function that takes a string and returns its reverse using a for loop.
+- Fibonacci: Write a program that generates the first n numbers of the Fibonacci sequence using a while loop.
+- Prime Numbers: Write a program that finds all prime numbers between 1 and 100 using nested loops (for inside for).
+- Remove Duplicates from an Array: Create a function that removes duplicates from an array using loops (for inside for).
