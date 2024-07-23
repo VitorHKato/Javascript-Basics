@@ -80,3 +80,25 @@ loop.
 - Fibonacci: Write a program that generates the first n numbers of the Fibonacci sequence using a while loop.
 - Prime Numbers: Write a program that finds all prime numbers between 1 and 100 using nested loops (for inside for).
 - Remove Duplicates from an Array: Create a function that removes duplicates from an array using loops (for inside for).
+
+## Vectors, Matrices, Strings
+### Vectors
+- Find the Largest and Smallest Element: Write a function that receives an array of numbers and returns the largest and 
+smallest elements of the array.
+- Concatenate Arrays: Write a function that receives two arrays and returns a new array containing all the elements of 
+the two arrays.
+- Reverse an Array: Write a function that receives an array and returns a new array with the elements in reverse order.
+### Matrices
+- Matrix Addition: Create a function that receives two matrices (two-dimensional arrays) of the same dimension and 
+returns a new matrix that is the sum of the two.
+- Matrix Transposition: Write a function that receives a matrix and returns its transpose.
+- Matrix Multiplication: Create a function that receives two matrices and returns the product of the two matrices.
+- Sum of Matrix Elements: Write a function that receives a matrix and returns the sum of all its elements.
+- Find the Largest Element in Each Row: Create a function that receives a matrix and returns an array containing the 
+largest element of each row of the matrix.
+### Strings
+- Count Vowels: Create a function that receives a string and counts the number of vowels (a, e, i, o, u) in it.
+- Remove Duplicate Characters: Write a function that receives a string and returns a new string with all duplicate 
+characters removed.
+- Check Palindrome: Create a function that receives a string and checks if it is a palindrome (reads the same forward 
+and backward).
