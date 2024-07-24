@@ -102,3 +102,14 @@ largest element of each row of the matrix.
 characters removed.
 - Check Palindrome: Create a function that receives a string and checks if it is a palindrome (reads the same forward 
 and backward).
+
+## Scope and identifiers
+- Variable scope: Write a function variableScope that declares a variable in the global scope and another variable in 
+the local scope of the function. Demonstrate how these variables behave differently.
+- Block scope: Create a function blockScope that uses a for loop and demonstrate the use of block scope with let and var.
+- Global and local variables: Complete the setName function so that the name variable defined outside the function is 
+not overwritten. Explain the difference between the global name variable and the local name variable.
+- Lexical scope: Create a function lexicalScope that contains another function inside it. The inner function should 
+access and modify a variable declared in the outer function. Demonstrate how lexical scope works in JavaScript.
+- Anonymous function identifiers: Write a function anonymousFunctions that assigns an anonymous function to a variable 
+and calls that function. Show how identifiers work when using anonymous functions.
