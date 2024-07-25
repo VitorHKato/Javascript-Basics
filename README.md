@@ -113,3 +113,26 @@ not overwritten. Explain the difference between the global name variable and the
 access and modify a variable declared in the outer function. Demonstrate how lexical scope works in JavaScript.
 - Anonymous function identifiers: Write a function anonymousFunctions that assigns an anonymous function to a variable 
 and calls that function. Show how identifiers work when using anonymous functions.
+
+## Functions and parameters
+- Simple Function: Write a function called sum that receives two numeric parameters and returns their sum.
+- Function with Multiple Parameters: Create a function called calculator that accepts three parameters: two numbers and 
+a string representing the operation to be performed ('add', 'subtract', 'multiply', 'divide'). The function should 
+return the result of the operation.
+- Function with Default Parameters: Write a function called greeting that accepts two parameters: name (string) and 
+message (string). The message parameter should have a default value of 'Hello'. The function should return a string that
+combines the message and the name.
+- Function that Returns Multiple Values: Create a function called operations that receives two numbers and returns a 
+list with the results of the addition, subtraction, multiplication, and division of the two numbers.
+- Nested Function: Write a function called outerFunction that contains another function called innerFunction. The 
+outerFunction should receive a number as a parameter, and the innerFunction should return the square of that number. 
+The outerFunction should return the result of the innerFunction.
+- Function with Optional Parameters: Create a function called converter that accepts three parameters: value (number), 
+sourceUnit (string), and targetUnit (string). If targetUnit is not provided, it should default to 'meters'. The function
+should perform the conversion from sourceUnit to targetUnit and return the converted value.
+- Function that Uses Another Function: Write two functions: double and triple. The double function should receive a 
+number and return its double. The triple function should receive a number and return its triple. Then, create a third 
+function called calculate that receives a number and a function as parameters, and returns the result of the passed 
+function applied to the number.
+- Recursive Function: Write a recursive function called factorial that accepts a non-negative integer and returns the 
+factorial of that number.
