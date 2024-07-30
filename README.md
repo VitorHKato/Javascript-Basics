@@ -136,3 +136,10 @@ function called calculate that receives a number and a function as parameters, a
 function applied to the number.
 - Recursive Function: Write a recursive function called factorial that accepts a non-negative integer and returns the 
 factorial of that number.
+
+## Final project
+### Income Tax Calculation System
+- Collect information from users: Prompt for information from 3 users, such as name, age, and gross monthly salary, and 
+store this information in an array of arrays (matrix).
+- Calculate net monthly salary: Calculate the net monthly salary using the progressive income tax table for each user.
+- Display results: Display the net salary, tax due, and applicable tax rate for each user using template literals.
